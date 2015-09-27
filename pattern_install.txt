@@ -1,0 +1,11 @@
+Loading repository data...
+Reading installed packages...
+Resolving package dependencies...
+
+Problem: patterns-OpenStack-network-node-2015.1-4.1.noarch requires openstack-neutron-dhcp-agent >= 2015.1, but this requirement cannot be provided
+  uninstallable providers: openstack-neutron-dhcp-agent-2015.1.2~a0~dev65-1.1.noarch[OpenStack_Kilo]
+ Solution 1: deinstallation of patterns-openSUSE-minimal_base-conflicts-20150505-6.5.x86_64
+ Solution 2: do not install patterns-OpenStack-network-node-2015.1-4.1.noarch
+ Solution 3: break patterns-OpenStack-network-node-2015.1-4.1.noarch by ignoring some of its dependencies
+
+Choose from above solutions by number or cancel [1/2/3/c] (c): 
